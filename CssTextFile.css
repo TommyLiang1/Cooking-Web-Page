@@ -2,7 +2,7 @@ body
 {
 	text-align: center;
 	font: 16pt arial;
-	background-image: url(background.jpg);
+	background-image: url(imgs/background.jpg);
 	background-size: cover;
 	background-repeat: none;
 	background-attachment: fixed;
